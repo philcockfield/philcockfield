@@ -1,7 +1,7 @@
 {
   "name": "run-tests",
   "version": "0.0.1",
-  "description": "Testing module that runs tests for a set of packages. ",
+  "description": "Testing module that runs tests for a set of packages.",
   "main": "index.js",
   "dependencies": {
     "chalk": "^1.1.0"
@@ -13,7 +13,6 @@
     "chai": "^2.2.0"
   },
   "scripts": {
-    "start": "node .",
     "test": "./node_modules/mocha/bin/mocha --recursive --compilers js:babel/register",
     "tdd": "./node_modules/mocha/bin/mocha --recursive --compilers js:babel/register --watch"
   },
