@@ -1,15 +1,17 @@
 # run-tests
-A central place to run tests for all modules.
+Runs tests for all modules.
+
+- [![Build Status](https://travis-ci.org/philcockfield/js-bdd.svg)](https://travis-ci.org/philcockfield/js-bdd) `js-bdd`
+
+- [![Build Status](https://travis-ci.org/philcockfield/js-util.svg?branch=master)](https://travis-ci.org/philcockfield/js-util) `js-util`
+
+- [![Build Status](https://travis-ci.org/philcockfield/ui-harness.svg)](https://travis-ci.org/philcockfield/ui-harness) `ui-harness`
+
 
 
 # Run
     npm install
-    npm start
-
-
-# Test
     npm test
-    npm run tdd  # (Live reload)
 
 
 
