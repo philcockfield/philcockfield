@@ -1,7 +1,7 @@
 {
   "name": "run-tests",
   "version": "0.0.1",
-  "description": "Testing module that runs tests for a set of packages.",
+  "description": "A central place to run tests for all modules.",
   "main": "index.js",
   "dependencies": {
     "chalk": "^1.1.0"

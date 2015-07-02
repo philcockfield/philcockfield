@@ -1,5 +1,5 @@
 # run-tests
-Testing module that runs tests for a set of packages.
+A central place to run tests for all modules.
 
 
 # Run
