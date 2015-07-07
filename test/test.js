@@ -15,7 +15,6 @@ describe('Modules:', function() {
   it('js-util', (done) => { runTests('js-util', done) });
   it('js-bdd', (done) => { runTests('js-bdd', done) });
   it('ui-harness', (done) => { runTests('ui-harness', done) });
-  it('ui-harness-server', (done) => { runTests('ui-harness-server', done) });
 });
 
 
