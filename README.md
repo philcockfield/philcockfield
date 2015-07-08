@@ -5,7 +5,7 @@ Runs tests for all modules.
 
 - [![Build Status](https://travis-ci.org/philcockfield/js-util.svg?branch=master)](https://travis-ci.org/philcockfield/js-util) [`js-util`](https://github.com/philcockfield/js-util)
 
-= [![Build Status](https://travis-ci.org/philcockfield/ui-components.svg?branch=master)](https://travis-ci.org/philcockfield/ui-components) [`ui-components`](https://github.com/philcockfield/ui-components)
+- [![Build Status](https://travis-ci.org/philcockfield/ui-components.svg?branch=master)](https://travis-ci.org/philcockfield/ui-components) [`ui-components`](https://github.com/philcockfield/ui-components)
 
 - [![Build Status](https://travis-ci.org/philcockfield/ui-harness.svg)](https://travis-ci.org/philcockfield/ui-harness) [`ui-harness`](https://github.com/philcockfield/ui-harness)
 
