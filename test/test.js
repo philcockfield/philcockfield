@@ -1,11 +1,10 @@
-var helpers = require('../helpers');
+let helpers = require('../helpers');
+let modules = ['js-util', 'js-bdd', 'ui-components', 'ui-harness', 'server-methods'];
 
 
 describe('Modules:', function() {
   this.timeout(10000);
-  it('js-util', (done) => { helpers.runTests('js-util', done) });
-  it('js-bdd', (done) => { helpers.runTests('js-bdd', done) });
-  it('ui-components', (done) => { helpers.runTests('ui-components', done) });
-  it('ui-harness', (done) => { helpers.runTests('ui-harness', done) });
-  it('server-methods', (done) => { helpers.runTests('server-methods', done) });
+  modules.forEach((name) => {
+    it(name, (done) => { helpers.runTests(name, done) });
+  });
 });
