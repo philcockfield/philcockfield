@@ -9,6 +9,7 @@ Runs tests for all modules.
 
 - [![Build Status](https://travis-ci.org/philcockfield/ui-harness.svg)](https://travis-ci.org/philcockfield/ui-harness) [`ui-harness`](https://github.com/philcockfield/ui-harness)
 
+- [![Build Status](https://travis-ci.org/philcockfield/server-methods.svg)](https://travis-ci.org/philcockfield/server-methods) [`server-methods`](https://github.com/philcockfield/server-methods)
 
 
 
