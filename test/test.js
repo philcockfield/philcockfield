@@ -1,5 +1,12 @@
 let helpers = require('../helpers');
-let modules = ['js-util', 'js-bdd', 'ui-components', 'ui-harness', 'server-methods'];
+let modules = [
+  'js-util',
+  'js-bdd',
+  'ui-components',
+  'ui-harness',
+  'server-methods',
+  'http-promises'
+];
 
 
 describe('Modules:', function() {

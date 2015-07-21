@@ -11,6 +11,8 @@ Runs tests for all modules.
 
 - [![Build Status](https://travis-ci.org/philcockfield/server-methods.svg)](https://travis-ci.org/philcockfield/server-methods) [`server-methods`](https://github.com/philcockfield/server-methods)
 
+- [![Build Status](https://travis-ci.org/philcockfield/http-promises.svg)](https://travis-ci.org/philcockfield/http-promises) [`http-promises`](https://github.com/philcockfield/http-promises)
+
 
 
 ## Run
