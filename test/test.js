@@ -2,9 +2,9 @@ let helpers = require('../helpers');
 let modules = [
   'js-util',
   'js-bdd',
-  'ui-components',
+  'ui-core',
   'ui-harness',
-  'server-methods',
+  'rest-methods',
   'http-promises'
 ];
 

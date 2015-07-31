@@ -5,11 +5,11 @@ Runs tests for all modules.
 
 - [![Build Status](https://travis-ci.org/philcockfield/js-util.svg?branch=master)](https://travis-ci.org/philcockfield/js-util) [`js-util`](https://github.com/philcockfield/js-util)
 
-- [![Build Status](https://travis-ci.org/philcockfield/ui-components.svg?branch=master)](https://travis-ci.org/philcockfield/ui-components) [`ui-components`](https://github.com/philcockfield/ui-components)
+- [![Build Status](https://travis-ci.org/philcockfield/ui-core.svg?branch=master)](https://travis-ci.org/philcockfield/ui-core) [`ui-core`](https://github.com/philcockfield/ui-core)
 
 - [![Build Status](https://travis-ci.org/philcockfield/ui-harness.svg)](https://travis-ci.org/philcockfield/ui-harness) [`ui-harness`](https://github.com/philcockfield/ui-harness)
 
-- [![Build Status](https://travis-ci.org/philcockfield/server-methods.svg)](https://travis-ci.org/philcockfield/server-methods) [`server-methods`](https://github.com/philcockfield/server-methods)
+- [![Build Status](https://travis-ci.org/philcockfield/rest-methods.svg?branch=master)](https://travis-ci.org/philcockfield/rest-methods) [`rest-methods`](https://github.com/philcockfield/rest-methods)
 
 - [![Build Status](https://travis-ci.org/philcockfield/http-promises.svg)](https://travis-ci.org/philcockfield/http-promises) [`http-promises`](https://github.com/philcockfield/http-promises)
 
