@@ -1,10 +1,11 @@
 let helpers = require('../helpers');
 let modules = [
-  'js-util',
   'js-bdd',
+  'js-util',
+  'react-server-pages',
+  'rest-methods',
   'ui-core',
   'ui-harness',
-  'rest-methods',
   'http-promises'
 ];
 
