@@ -1,6 +1,8 @@
 # run-tests
 Runs tests for all modules.
 
+- [![Build Status](https://travis-ci.org/philcockfield/fs-stylus.svg)](https://travis-ci.org/philcockfield/fs-stylus) [`fs-stylus`](https://github.com/philcockfield/fs-stylus)
+
 - [![Build Status](https://travis-ci.org/philcockfield/http-promises.svg)](https://travis-ci.org/philcockfield/http-promises) [`http-promises`](https://github.com/philcockfield/http-promises)
 
 - [![Build Status](https://travis-ci.org/philcockfield/js-bdd.svg)](https://travis-ci.org/philcockfield/js-bdd) [`js-bdd`](https://github.com/philcockfield/js-bdd)

@@ -1,5 +1,6 @@
 let helpers = require('../helpers');
 let modules = [
+  'fs-stylus',
   'js-bdd',
   'js-util',
   'react-server-pages',
