@@ -6,7 +6,7 @@ let modules = [
   "js-bdd",
   "js-util",
   "react-middleware",
-  "rest-methods",
+  "rest-middleware",
   "ui-core",
   "ui-harness",
   "http-promises"

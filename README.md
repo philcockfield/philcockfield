@@ -15,7 +15,7 @@ Runs tests for all modules.
 
 - [![Build Status](https://travis-ci.org/philcockfield/react-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/react-middleware) [`react-middleware`](https://github.com/philcockfield/react-middleware)
 
-- [![Build Status](https://travis-ci.org/philcockfield/rest-methods.svg?branch=master)](https://travis-ci.org/philcockfield/rest-methods) [`rest-methods`](https://github.com/philcockfield/rest-methods)
+- [![Build Status](https://travis-ci.org/philcockfield/rest-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/rest-middleware) [`rest-middleware`](https://github.com/philcockfield/rest-middleware)
 
 - [![Build Status](https://travis-ci.org/philcockfield/ui-core.svg?branch=master)](https://travis-ci.org/philcockfield/ui-core) [`ui-core`](https://github.com/philcockfield/ui-core)
 
