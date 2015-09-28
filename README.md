@@ -13,7 +13,7 @@ Runs tests for all modules.
 
 - [![Build Status](https://travis-ci.org/philcockfield/js-util.svg?branch=master)](https://travis-ci.org/philcockfield/js-util) [`js-util`](https://github.com/philcockfield/js-util)
 
-- [![Build Status](https://travis-ci.org/philcockfield/react-server-pages.svg?branch=master)](https://travis-ci.org/philcockfield/react-server-pages) [`react-server-pages`](https://github.com/philcockfield/react-server-pages)
+- [![Build Status](https://travis-ci.org/philcockfield/react-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/react-middleware) [`react-middleware`](https://github.com/philcockfield/react-middleware)
 
 - [![Build Status](https://travis-ci.org/philcockfield/rest-methods.svg?branch=master)](https://travis-ci.org/philcockfield/rest-methods) [`rest-methods`](https://github.com/philcockfield/rest-methods)
 

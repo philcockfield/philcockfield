@@ -5,7 +5,7 @@ let modules = [
   "file-system-css",
   "js-bdd",
   "js-util",
-  "react-server-pages",
+  "react-middleware",
   "rest-methods",
   "ui-core",
   "ui-harness",
