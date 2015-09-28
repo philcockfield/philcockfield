@@ -30,7 +30,7 @@ export var runCommand = (path, command, args, callback) => {
       errors.push(err);
   });
   childProcess.on('close', (code) => {
-      callback({ errors:errors, code:code });
+      callback({ errors: errors, code: code });
   });
 };
 

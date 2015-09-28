@@ -2,7 +2,6 @@
   "name": "run-tests",
   "version": "0.0.1",
   "description": "Runs tests for all modules.",
-  "main": "index.js",
   "dependencies": {
     "chalk": "^1.1.0"
   },
