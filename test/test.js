@@ -2,7 +2,7 @@ let helpers = require("../helpers");
 let modules = [
   "api-docs",
   "file-system-cache",
-  "fs-css",
+  "file-system-css",
   "js-bdd",
   "js-util",
   "react-server-pages",
