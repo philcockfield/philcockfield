@@ -5,9 +5,9 @@ let modules = [
   "file-system-css",
   "js-bdd",
   "js-util",
+  "react-atoms",
   "react-middleware",
   "rest-middleware",
-  "ui-core",
   "ui-harness",
   "http-promises"
 ];

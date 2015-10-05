@@ -13,16 +13,13 @@ Runs tests for all modules.
 
 - [![Build Status](https://travis-ci.org/philcockfield/js-util.svg?branch=master)](https://travis-ci.org/philcockfield/js-util) [`js-util`](https://github.com/philcockfield/js-util)
 
+- [![Build Status](https://travis-ci.org/philcockfield/react-atoms.svg?branch=master)](https://travis-ci.org/philcockfield/react-atoms) [`react-atoms`](https://github.com/philcockfield/react-atoms)
+
 - [![Build Status](https://travis-ci.org/philcockfield/react-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/react-middleware) [`react-middleware`](https://github.com/philcockfield/react-middleware)
+
+- [![Build Status](https://travis-ci.org/philcockfield/react-object.svg?branch=master)](https://travis-ci.org/philcockfield/react-object) [`react-object`](https://github.com/philcockfield/react-object)
+
 
 - [![Build Status](https://travis-ci.org/philcockfield/rest-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/rest-middleware) [`rest-middleware`](https://github.com/philcockfield/rest-middleware)
 
-- [![Build Status](https://travis-ci.org/philcockfield/ui-core.svg?branch=master)](https://travis-ci.org/philcockfield/ui-core) [`ui-core`](https://github.com/philcockfield/ui-core)
-
 - [![Build Status](https://travis-ci.org/philcockfield/ui-harness.svg)](https://travis-ci.org/philcockfield/ui-harness) [`ui-harness`](https://github.com/philcockfield/ui-harness)
-
-
-
-## Run
-    npm install
-    npm test
