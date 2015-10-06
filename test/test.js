@@ -6,6 +6,7 @@ let modules = [
   "js-bdd",
   "js-util",
   "react-atoms",
+  "react-blog",
   "react-middleware",
   "rest-middleware",
   "ui-harness",
