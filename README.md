@@ -21,6 +21,7 @@ Runs tests for all modules.
 
 - [![Build Status](https://travis-ci.org/philcockfield/react-object.svg?branch=master)](https://travis-ci.org/philcockfield/react-object) [`react-object`](https://github.com/philcockfield/react-object)
 
+- [![Build Status](https://travis-ci.org/philcockfield/react-schema.svg?branch=master)](https://travis-ci.org/philcockfield/react-schema) [`react-schema`](https://github.com/philcockfield/react-schema)
 
 - [![Build Status](https://travis-ci.org/philcockfield/rest-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/rest-middleware) [`rest-middleware`](https://github.com/philcockfield/rest-middleware)
 

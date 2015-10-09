@@ -7,6 +7,8 @@ let modules = [
   "js-util",
   "react-atoms",
   "react-blog",
+  "react-object",
+  "react-schema",
   "react-middleware",
   "rest-middleware",
   "ui-harness",
