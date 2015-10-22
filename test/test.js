@@ -3,6 +3,7 @@ let modules = [
   "api-docs",
   "file-system-cache",
   "file-system-css",
+  "file-system-github",
   "js-bdd",
   "js-util",
   "react-atoms",

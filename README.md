@@ -7,6 +7,8 @@ Runs tests for all modules.
 
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-css.svg?branch=master)](https://travis-ci.org/philcockfield/file-system-css) [`file-system-css`](https://github.com/philcockfield/file-system-css)
 
+- [![Build Status](https://travis-ci.org/philcockfield/file-system-github.svg)](https://travis-ci.org/philcockfield/file-system-github) [`file-system-github`](https://github.com/philcockfield/file-system-github)
+
 - [![Build Status](https://travis-ci.org/philcockfield/http-promises.svg)](https://travis-ci.org/philcockfield/http-promises) [`http-promises`](https://github.com/philcockfield/http-promises)
 
 - [![Build Status](https://travis-ci.org/philcockfield/js-bdd.svg)](https://travis-ci.org/philcockfield/js-bdd) [`js-bdd`](https://github.com/philcockfield/js-bdd)
