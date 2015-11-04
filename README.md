@@ -1,5 +1,5 @@
-# run-tests
-Runs tests for all modules.
+# Modules
+List of modules and current CI status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/api-docs.svg)](https://travis-ci.org/philcockfield/api-docs) [`api-docs`](https://github.com/philcockfield/api-docs)
 
