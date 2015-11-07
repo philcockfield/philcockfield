@@ -3,6 +3,8 @@ List of modules and current CI status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/api-docs.svg)](https://travis-ci.org/philcockfield/api-docs) [`api-docs`](https://github.com/philcockfield/api-docs)
 
+- [![Build Status](https://travis-ci.org/philcockfield/app-sync.svg)](https://travis-ci.org/philcockfield/app-sync) [`app-sync`](https://github.com/philcockfield/app-sync)
+
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-cache.svg)](https://travis-ci.org/philcockfield/file-system-cache) [`file-system-cache`](https://github.com/philcockfield/file-system-cache)
 
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-css.svg?branch=master)](https://travis-ci.org/philcockfield/file-system-css) [`file-system-css`](https://github.com/philcockfield/file-system-css)
