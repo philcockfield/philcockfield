@@ -1,5 +1,5 @@
-# Modules
-List of modules and current CI status:
+# Open Source Modules
+Continuous integration status:
 
 
 - [![Build Status](https://travis-ci.org/philcockfield/app-sync.svg)](https://travis-ci.org/philcockfield/app-sync) [`app-sync`](https://github.com/philcockfield/app-sync)
@@ -33,6 +33,7 @@ List of modules and current CI status:
 ---
 
 ### Seedlings
+Stubbed in for later work.
 
 - [![Build Status](https://travis-ci.org/philcockfield/api-docs.svg)](https://travis-ci.org/philcockfield/api-docs) [`api-docs`](https://github.com/philcockfield/api-docs)
 
