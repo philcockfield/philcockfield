@@ -1,7 +1,6 @@
 # Modules
 List of modules and current CI status:
 
-- [![Build Status](https://travis-ci.org/philcockfield/api-docs.svg)](https://travis-ci.org/philcockfield/api-docs) [`api-docs`](https://github.com/philcockfield/api-docs)
 
 - [![Build Status](https://travis-ci.org/philcockfield/app-sync.svg)](https://travis-ci.org/philcockfield/app-sync) [`app-sync`](https://github.com/philcockfield/app-sync)
 
@@ -19,7 +18,6 @@ List of modules and current CI status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/react-atoms.svg?branch=master)](https://travis-ci.org/philcockfield/react-atoms) [`react-atoms`](https://github.com/philcockfield/react-atoms)
 
-- [![Build Status](https://travis-ci.org/philcockfield/react-blog.svg)](https://travis-ci.org/philcockfield/react-blog) [`react-blog`](https://github.com/philcockfield/react-blog)
 
 - [![Build Status](https://travis-ci.org/philcockfield/react-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/react-middleware) [`react-middleware`](https://github.com/philcockfield/react-middleware)
 
@@ -30,3 +28,12 @@ List of modules and current CI status:
 - [![Build Status](https://travis-ci.org/philcockfield/rest-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/rest-middleware) [`rest-middleware`](https://github.com/philcockfield/rest-middleware)
 
 - [![Build Status](https://travis-ci.org/philcockfield/ui-harness.svg)](https://travis-ci.org/philcockfield/ui-harness) [`ui-harness`](https://github.com/philcockfield/ui-harness)
+
+
+---
+
+### Seedlings
+
+- [![Build Status](https://travis-ci.org/philcockfield/api-docs.svg)](https://travis-ci.org/philcockfield/api-docs) [`api-docs`](https://github.com/philcockfield/api-docs)
+
+- [![Build Status](https://travis-ci.org/philcockfield/react-blog.svg)](https://travis-ci.org/philcockfield/react-blog) [`react-blog`](https://github.com/philcockfield/react-blog)
