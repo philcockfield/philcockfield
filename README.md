@@ -2,9 +2,6 @@
 Continuous integration status:
 
 
-- [![Build Status](https://travis-ci.org/philcockfield/amqp-connection.svg)](https://travis-ci.org/philcockfield/amqp-connection) [`amqp-connection`](https://github.com/philcockfield/amqp-connection)
-
-- [![Build Status](https://travis-ci.org/philcockfield/amqp-pubsub.svg)](https://travis-ci.org/philcockfield/amqp-pubsub) [`amqp-pubsub`](https://github.com/philcockfield/amqp-pubsub)
 
 - [![Build Status](https://travis-ci.org/philcockfield/app-sync.svg)](https://travis-ci.org/philcockfield/app-sync) [`app-sync`](https://github.com/philcockfield/app-sync)
 
@@ -20,8 +17,11 @@ Continuous integration status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/js-util.svg?branch=master)](https://travis-ci.org/philcockfield/js-util) [`js-util`](https://github.com/philcockfield/js-util)
 
-- [![Build Status](https://travis-ci.org/philcockfield/react-atoms.svg?branch=master)](https://travis-ci.org/philcockfield/react-atoms) [`react-atoms`](https://github.com/philcockfield/react-atoms)
+- [![Build Status](https://travis-ci.org/philcockfield/mq-connection.svg)](https://travis-ci.org/philcockfield/mq-connection) [`mq-connection`](https://github.com/philcockfield/mq-connection)
 
+- [![Build Status](https://travis-ci.org/philcockfield/mq-pubsub.svg)](https://travis-ci.org/philcockfield/mq-pubsub) [`mq-pubsub`](https://github.com/philcockfield/mq-pubsub)
+
+- [![Build Status](https://travis-ci.org/philcockfield/react-atoms.svg?branch=master)](https://travis-ci.org/philcockfield/react-atoms) [`react-atoms`](https://github.com/philcockfield/react-atoms)
 
 - [![Build Status](https://travis-ci.org/philcockfield/react-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/react-middleware) [`react-middleware`](https://github.com/philcockfield/react-middleware)
 
