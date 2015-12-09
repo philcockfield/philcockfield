@@ -2,6 +2,10 @@
 Continuous integration status:
 
 
+- [![Build Status](https://travis-ci.org/philcockfield/amqp-connection.svg)](https://travis-ci.org/philcockfield/amqp-connection) [`amqp-connection`](https://github.com/philcockfield/amqp-connection)
+
+- [![Build Status](https://travis-ci.org/philcockfield/amqp-pubsub.svg)](https://travis-ci.org/philcockfield/amqp-pubsub) [`amqp-pubsub`](https://github.com/philcockfield/amqp-pubsub)
+
 - [![Build Status](https://travis-ci.org/philcockfield/app-sync.svg)](https://travis-ci.org/philcockfield/app-sync) [`app-sync`](https://github.com/philcockfield/app-sync)
 
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-cache.svg)](https://travis-ci.org/philcockfield/file-system-cache) [`file-system-cache`](https://github.com/philcockfield/file-system-cache)
