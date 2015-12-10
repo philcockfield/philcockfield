@@ -21,8 +21,6 @@ Continuous integration status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/mq-pubsub.svg)](https://travis-ci.org/philcockfield/mq-pubsub) [`mq-pubsub`](https://github.com/philcockfield/mq-pubsub)
 
-- [![Build Status](https://travis-ci.org/philcockfield/mq-pushworker.svg)](https://travis-ci.org/philcockfield/mq-pushworker) [`mq-pushworker`](https://github.com/philcockfield/mq-pushworker)
-
 - [![Build Status](https://travis-ci.org/philcockfield/react-atoms.svg?branch=master)](https://travis-ci.org/philcockfield/react-atoms) [`react-atoms`](https://github.com/philcockfield/react-atoms)
 
 - [![Build Status](https://travis-ci.org/philcockfield/react-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/react-middleware) [`react-middleware`](https://github.com/philcockfield/react-middleware)
@@ -44,6 +42,8 @@ Stubbed in for later work.
 - [![Build Status](https://travis-ci.org/philcockfield/api-docs.svg)](https://travis-ci.org/philcockfield/api-docs) [`api-docs`](https://github.com/philcockfield/api-docs)
 
 - [![Build Status](https://travis-ci.org/philcockfield/react-blog.svg)](https://travis-ci.org/philcockfield/react-blog) [`react-blog`](https://github.com/philcockfield/react-blog)
+
+- [![Build Status](https://travis-ci.org/philcockfield/mq-pushworker.svg)](https://travis-ci.org/philcockfield/mq-pushworker) [`mq-pushworker`](https://github.com/philcockfield/mq-pushworker)
 
 
 
