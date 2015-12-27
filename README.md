@@ -54,6 +54,6 @@ Stubbed in for later work.
 
 ### Private
 
-- [teamdb](github.com/philcockfield/teamdb)
+- [teamdb](https://github.com/philcockfield/teamdb)
 
 
