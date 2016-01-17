@@ -48,8 +48,8 @@ Stubbed in for later work.
 
 ### Docker
 
-- [philcockfield/node-pm2](https://github.com/philcockfield/node-pm2) (on [Docker Hub](https://hub.docker.com/r/philcockfield/node-pm2/))
-- [philcockfield/ubuntu-dev](https://github.com/philcockfield/) (on [Docker Hub](https://hub.docker.com/r/philcockfield/ubuntu-dev/))
+- [`philcockfield/node-pm2`](https://github.com/philcockfield/node-pm2) (on [Docker Hub](https://hub.docker.com/r/philcockfield/node-pm2/))
+- [`philcockfield/ubuntu-dev`](https://github.com/philcockfield/) (on [Docker Hub](https://hub.docker.com/r/philcockfield/ubuntu-dev/))
 
 
 ### See Also
