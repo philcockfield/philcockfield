@@ -35,13 +35,6 @@ Continuous integration status:
 
 ---
 
-### Docker
-
-- https://github.com/philcockfield/node-pm2
-- https://github.com/philcockfield/ubuntu-dev
-
----
-
 ### Seedlings
 Stubbed in for later work.
 
@@ -51,6 +44,12 @@ Stubbed in for later work.
 
 - [![Build Status](https://travis-ci.org/philcockfield/mq-pushworker.svg)](https://travis-ci.org/philcockfield/mq-pushworker) [`mq-pushworker`](https://github.com/philcockfield/mq-pushworker)
 
+---
+
+### Docker
+
+- https://github.com/philcockfield/node-pm2
+- https://github.com/philcockfield/ubuntu-dev
 
 
 ### See Also
