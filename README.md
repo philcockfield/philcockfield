@@ -13,6 +13,10 @@ Continuous integration status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/http-promises.svg)](https://travis-ci.org/philcockfield/http-promises) [`http-promises`](https://github.com/philcockfield/http-promises)
 
+- [![Build Status](https://travis-ci.org/philcockfield/js-babel.svg)](https://travis-ci.org/philcockfield/js-babel) [`js-babel`](https://github.com/philcockfield/js-babel)
+
+- [![Build Status](https://travis-ci.org/philcockfield/js-babel-dev.svg)](https://travis-ci.org/philcockfield/js-babel-dev) [`js-babel-dev`](https://github.com/philcockfield/js-babel-dev)
+
 - [![Build Status](https://travis-ci.org/philcockfield/js-bdd.svg)](https://travis-ci.org/philcockfield/js-bdd) [`js-bdd`](https://github.com/philcockfield/js-bdd)
 
 - [![Build Status](https://travis-ci.org/philcockfield/js-util.svg?branch=master)](https://travis-ci.org/philcockfield/js-util) [`js-util`](https://github.com/philcockfield/js-util)
