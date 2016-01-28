@@ -5,6 +5,8 @@ Continuous integration status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/app-sync.svg)](https://travis-ci.org/philcockfield/app-sync) [`app-sync`](https://github.com/philcockfield/app-sync)
 
+- [![Build Status](https://travis-ci.org/philcockfield/babel.svg)](https://travis-ci.org/philcockfield/babel) [`babel`](https://github.com/philcockfield/babel)
+
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-cache.svg)](https://travis-ci.org/philcockfield/file-system-cache) [`file-system-cache`](https://github.com/philcockfield/file-system-cache)
 
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-css.svg?branch=master)](https://travis-ci.org/philcockfield/file-system-css) [`file-system-css`](https://github.com/philcockfield/file-system-css)
@@ -12,10 +14,6 @@ Continuous integration status:
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-github.svg)](https://travis-ci.org/philcockfield/file-system-github) [`file-system-github`](https://github.com/philcockfield/file-system-github)
 
 - [![Build Status](https://travis-ci.org/philcockfield/http-promises.svg)](https://travis-ci.org/philcockfield/http-promises) [`http-promises`](https://github.com/philcockfield/http-promises)
-
-- [![Build Status](https://travis-ci.org/philcockfield/js-babel.svg)](https://travis-ci.org/philcockfield/js-babel) [`js-babel`](https://github.com/philcockfield/js-babel)
-
-- [![Build Status](https://travis-ci.org/philcockfield/js-babel-dev.svg)](https://travis-ci.org/philcockfield/js-babel-dev) [`js-babel-dev`](https://github.com/philcockfield/js-babel-dev)
 
 - [![Build Status](https://travis-ci.org/philcockfield/js-bdd.svg)](https://travis-ci.org/philcockfield/js-bdd) [`js-bdd`](https://github.com/philcockfield/js-bdd)
 
