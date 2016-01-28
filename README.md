@@ -34,6 +34,10 @@ Continuous integration status:
 - [![Build Status](https://travis-ci.org/philcockfield/rest-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/rest-middleware) [`rest-middleware`](https://github.com/philcockfield/rest-middleware)
 
 - [![Build Status](https://travis-ci.org/philcockfield/ui-harness.svg)](https://travis-ci.org/philcockfield/ui-harness) [`ui-harness`](https://github.com/philcockfield/ui-harness)
+(
+  [uiharness.com](http://uiharness.com),
+  [sample](https://github.com/philcockfield/ui-harness-sample)
+)
 
 ---
 
