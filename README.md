@@ -11,6 +11,8 @@ Continuous integration status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-css.svg?branch=master)](https://travis-ci.org/philcockfield/file-system-css) [`file-system-css`](https://github.com/philcockfield/file-system-css)
 
+- [![Build Status](https://travis-ci.org/philcockfield/file-system-dropbox.svg?branch=master)](https://travis-ci.org/philcockfield/file-system-dropbox) [`file-system-dropbox`](https://github.com/philcockfield/file-system-dropbox)
+
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-github.svg)](https://travis-ci.org/philcockfield/file-system-github) [`file-system-github`](https://github.com/philcockfield/file-system-github)
 
 - [![Build Status](https://travis-ci.org/philcockfield/http-promises.svg)](https://travis-ci.org/philcockfield/http-promises) [`http-promises`](https://github.com/philcockfield/http-promises)
