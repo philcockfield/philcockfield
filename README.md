@@ -7,6 +7,8 @@ Continuous integration status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/babel.svg)](https://travis-ci.org/philcockfield/babel) [`babel`](https://github.com/philcockfield/babel)
 
+- [![Build Status](https://travis-ci.org/philcockfield/command-interface.svg)](https://travis-ci.org/philcockfield/command-interface) [`command-interface`](https://github.com/philcockfield/command-interface)
+
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-cache.svg)](https://travis-ci.org/philcockfield/file-system-cache) [`file-system-cache`](https://github.com/philcockfield/file-system-cache)
 
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-css.svg?branch=master)](https://travis-ci.org/philcockfield/file-system-css) [`file-system-css`](https://github.com/philcockfield/file-system-css)
