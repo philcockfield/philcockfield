@@ -5,7 +5,7 @@ Continuous integration status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/app-sync.svg)](https://travis-ci.org/philcockfield/app-sync) [`app-sync`](https://github.com/philcockfield/app-sync)
 
-- [![Build Status](https://travis-ci.org/philcockfield/babel.svg)](https://travis-ci.org/philcockfield/babel) [`babel`](https://github.com/philcockfield/babel)
+- [![Build Status](https://travis-ci.org/philcockfield/transpilers.svg)](https://travis-ci.org/philcockfield/transpilers) [`transpilers`](https://github.com/philcockfield/transpilers)
 
 - [![Build Status](https://travis-ci.org/philcockfield/command-interface.svg)](https://travis-ci.org/philcockfield/command-interface) [`command-interface`](https://github.com/philcockfield/command-interface)
 
