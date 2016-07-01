@@ -5,8 +5,6 @@ Continuous integration status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/app-sync.svg)](https://travis-ci.org/philcockfield/app-sync) [`app-sync`](https://github.com/philcockfield/app-sync)
 
-- [![Build Status](https://travis-ci.org/philcockfield/transpilers.svg)](https://travis-ci.org/philcockfield/transpilers) [`transpilers`](https://github.com/philcockfield/transpilers)
-
 - [![Build Status](https://travis-ci.org/philcockfield/command-interface.svg)](https://travis-ci.org/philcockfield/command-interface) [`command-interface`](https://github.com/philcockfield/command-interface)
 
 - [![Build Status](https://travis-ci.org/philcockfield/file-system-cache.svg)](https://travis-ci.org/philcockfield/file-system-cache) [`file-system-cache`](https://github.com/philcockfield/file-system-cache)
@@ -38,6 +36,8 @@ Continuous integration status:
 - [![Build Status](https://travis-ci.org/philcockfield/react-schema.svg?branch=master)](https://travis-ci.org/philcockfield/react-schema) [`react-schema`](https://github.com/philcockfield/react-schema)
 
 - [![Build Status](https://travis-ci.org/philcockfield/rest-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/rest-middleware) [`rest-middleware`](https://github.com/philcockfield/rest-middleware)
+
+- [![Build Status](https://travis-ci.org/philcockfield/transpilers.svg)](https://travis-ci.org/philcockfield/transpilers) [`transpilers`](https://github.com/philcockfield/transpilers)
 
 - [![Build Status](https://travis-ci.org/philcockfield/ui-harness.svg)](https://travis-ci.org/philcockfield/ui-harness) [`ui-harness`](https://github.com/philcockfield/ui-harness)
 (
