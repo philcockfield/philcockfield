@@ -37,6 +37,8 @@ Continuous integration status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/rest-middleware.svg?branch=master)](https://travis-ci.org/philcockfield/rest-middleware) [`rest-middleware`](https://github.com/philcockfield/rest-middleware)
 
+- [![Build Status](https://travis-ci.org/philcockfield/storybook-host.svg)](https://travis-ci.org/philcockfield/storybook-host) [`storybook-host`](https://github.com/philcockfield/storybook-host)
+
 - [![Build Status](https://travis-ci.org/philcockfield/transpilers.svg)](https://travis-ci.org/philcockfield/transpilers) [`transpilers`](https://github.com/philcockfield/transpilers)
 
 - [![Build Status](https://travis-ci.org/philcockfield/ui-harness.svg)](https://travis-ci.org/philcockfield/ui-harness) [`ui-harness`](https://github.com/philcockfield/ui-harness)
