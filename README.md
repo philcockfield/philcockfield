@@ -25,6 +25,8 @@ Continuous integration status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/msync.svg?branch=master)](https://travis-ci.org/philcockfield/msync) [`msync`](https://github.com/philcockfield/msync)
 
+- [![Build Status](https://travis-ci.org/philcockfield/new-tmpl.svg?branch=master)](https://travis-ci.org/philcockfield/new-tmpl) [`new-tmpl`](https://github.com/philcockfield/new-tmpl)
+
 - [![Build Status](https://travis-ci.org/philcockfield/mq-connection.svg)](https://travis-ci.org/philcockfield/mq-connection) [`mq-connection`](https://github.com/philcockfield/mq-connection)
 
 - [![Build Status](https://travis-ci.org/philcockfield/mq-pubsub.svg)](https://travis-ci.org/philcockfield/mq-pubsub) [`mq-pubsub`](https://github.com/philcockfield/mq-pubsub)
