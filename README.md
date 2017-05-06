@@ -21,7 +21,7 @@ Continuous integration status:
 
 - [![Build Status](https://travis-ci.org/philcockfield/js-util.svg?branch=master)](https://travis-ci.org/philcockfield/js-util) [`js-util`](https://github.com/philcockfield/js-util)
 
-- [![Build Status](https://travis-ci.org/philcockfield/js-util-log.svg?branch=master)](https://travis-ci.org/philcockfield/js-util-log) [`js-util-log`](https://github.com/philcockfield/js-util-log)
+- [![Build Status](https://travis-ci.org/philcockfield/log.server.svg?branch=master)](https://travis-ci.org/philcockfield/log.server) [`log.server`](https://github.com/philcockfield/log.server)
 
 - [![Build Status](https://travis-ci.org/philcockfield/msync.svg?branch=master)](https://travis-ci.org/philcockfield/msync) [`msync`](https://github.com/philcockfield/msync)
 
