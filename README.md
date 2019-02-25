@@ -1,4 +1,4 @@
-# Selection of Phil’s Stuff (OSS)
+# Selection of Modules and Current Work (OSS)
 
 ![@platform](https://user-images.githubusercontent.com/185555/52255812-f5e8cd80-2978-11e9-8baf-2d4b82b5f02c.png)
 
