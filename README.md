@@ -1,6 +1,6 @@
 # Selection of Current Work
 
-![@platform](https://user-images.githubusercontent.com/185555/52255812-f5e8cd80-2978-11e9-8baf-2d4b82b5f02c.png)
+![@platform](https://user-images.githubusercontent.com/185555/55036317-1b43af00-507f-11e9-8034-59f1e4510f77.png)
 
 ![uiharness](https://user-images.githubusercontent.com/185555/52250326-2ff7a680-295c-11e9-9471-8a45b1e6b909.png)
 
