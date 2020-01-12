@@ -1,4 +1,4 @@
-# Selection of Current Work
+# Current Work
 
 ![@platform](https://user-images.githubusercontent.com/185555/55036317-1b43af00-507f-11e9-8034-59f1e4510f77.png)
 
