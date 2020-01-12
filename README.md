@@ -10,16 +10,11 @@
 CI status:
 
 - [`@platform`](https://github.com/uiharness/platform) (multiple modules)
-
 - [`@uiharness`](https://github.com/uiharness/uiharness) (multiple modules)
-
 - [`command-interface`](https://github.com/philcockfield/command-interface)
-
-- (https://travis-ci.org/philcockfield/msync) [`msync`](https://github.com/philcockfield/msync)
-
-- (https://travis-ci.org/philcockfield/create-tmpl) [`create-tmpl`](https://github.com/philcockfield/create-tmpl)
-
-- (https://travis-ci.org/philcockfield/storybook-host) [`storybook-host`](https://github.com/philcockfield/storybook-host)
+- [`msync`](https://github.com/philcockfield/msync)
+- [`create-tmpl`](https://github.com/philcockfield/create-tmpl)
+- [`storybook-host`](https://github.com/philcockfield/storybook-host)
 
 
 
