@@ -7,7 +7,6 @@
 
 
 
-CI status:
 
 - [`@platform`](https://github.com/uiharness/platform) (multiple modules)
 - [`@uiharness`](https://github.com/uiharness/uiharness) (multiple modules)
