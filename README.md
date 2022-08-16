@@ -1,4 +1,5 @@
-[github.com/cellplatform](https://github.com/cellplatform)
+- [github.com/cellplatform](https://github.com/cellplatform)
+- [phil.cockfield.net](https://phil.cockfield.net)
 
 ---
 
