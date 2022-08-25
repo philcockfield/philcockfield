@@ -1,5 +1,5 @@
 - [phil.cockfield.net](https://phil.cockfield.net)
-- github[/cellplatform](https://github.com/cellplatform)
+- github/[cellplatform](https://github.com/cellplatform)
 - twitter/[@philcockfield](https://twitter.com/philcockfield)
 
 ---
