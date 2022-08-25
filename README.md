@@ -1,6 +1,10 @@
 - [phil.cockfield.net](https://phil.cockfield.net)
+- github[/cellplatform](https://github.com/cellplatform)
+- twitter/[@philcockfield](https://twitter.com/philcockfield)
+
+---
+
 - [bus.events](https://bus.events)
-- [github.com/cellplatform](https://github.com/cellplatform)
 
 ---
 
