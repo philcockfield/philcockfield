@@ -1,7 +1,7 @@
 - [phil.cockfield.net](https://phil.cockfield.net)
+- [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0)
 - github/[cellplatform](https://github.com/cellplatform)
 - twitter/[@philcockfield](https://twitter.com/philcockfield)
-- [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0)
 
 ---
 
