@@ -5,16 +5,15 @@
 
 ![image](https://user-images.githubusercontent.com/185555/190883023-a2750977-7295-4a40-a6b3-d7ed7e772935.png)
 
-ref:  
-  https://en.wikipedia.org/wiki/World_Wide_Web_Consortium
+  
 
-Important emerging standards:
+Important emerging standards out of the [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium):
 - https://www.w3.org/TR/vc-data-model
 - https://www.w3.org/2019/did-wg
 
 
 ref:  
-timestamp (Chris Dixon) - 26.01  
+timestamp (Chris Dixon) - `26.01`  
 http://podcast.banklesshq.com/90-5-mental-models-for-web3-chris-dixon
 
 ---
