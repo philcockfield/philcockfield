@@ -11,8 +11,21 @@ refs (wikipedia):
 
 ---
 
+
 ![image](https://user-images.githubusercontent.com/185555/190882892-78c83fab-cb96-4b22-8ff6-ab5ffd4e6336.png)
 
 
+---
 
---
+
+![image](https://user-images.githubusercontent.com/185555/190882920-6d0192e9-eec1-47e2-bf44-fc5ab0fa3920.png)
+
+- ref. 
+  https://en.wikipedia.org/wiki/Self-sovereign_identity
+
+- ref  
+  Book: "Talent". 
+  Author: Tyler Cohen, Daniel Gross. 
+
+- (related exploration of "talent" not specifically SSI). 
+   https://www.amazon.com/Talent-Identify-Energizers-Creatives-Winners/dp/1250275814
