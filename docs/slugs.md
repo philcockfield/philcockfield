@@ -31,6 +31,7 @@ refs (wikipedia):
 
 ![image](https://user-images.githubusercontent.com/185555/190882892-78c83fab-cb96-4b22-8ff6-ab5ffd4e6336.png)
 
+concepts around trust
 
 ---
 
