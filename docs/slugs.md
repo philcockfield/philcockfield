@@ -27,3 +27,15 @@ refs (wikipedia):
   Book: "[Talent](https://www.amazon.com/Talent-Identify-Energizers-Creatives-Winners-ebook/dp/B08R2KNYVX)".  
   Author: Tyler Cohen, Daniel Gross.  
   (related exploration of "talent" not specifically SSI)  
+
+
+---
+
+
+![image](https://user-images.githubusercontent.com/185555/190882998-90d020ee-b951-4ea8-a5ed-afe0a154c375.png)
+
+- ref  
+  https://www.eff.org/deeplinks/2019/10/adversarial-interoperability
+
+- ref  
+  https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation
