@@ -49,6 +49,7 @@ concepts around trust
 
 ---
 
+## Start with "Adversairal Interop"
 
 ![image](https://user-images.githubusercontent.com/185555/190882998-90d020ee-b951-4ea8-a5ed-afe0a154c375.png)
 
