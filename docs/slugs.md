@@ -24,7 +24,7 @@ refs (wikipedia):
 - [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
 - [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine)
 - [Universal Turing Machine](https://en.wikipedia.org/wiki/Universal_Turing_machine)
-
+- [Alan Kay, lecture](https://www.youtube.com/watch?v=Vt8jyPqsmxE&list=PLAMq8HJFHrMQ3wvPHaw97QoKbFAzkDHT0&index=45&t=4s) - "Extracitng Energy from the Turing Tarpit" (conceptual flip)
 
 ---
 
