@@ -18,4 +18,3 @@ holding patterns
 ![func](https://user-images.githubusercontent.com/185555/186598296-c41a1c07-8a20-454e-82ae-e1fb432ebb04.png)
 ![@platform](https://user-images.githubusercontent.com/185555/88729229-76ac1280-d187-11ea-81c6-14146ec64848.png)
 ![kay-pure-relationships](https://user-images.githubusercontent.com/185555/186360463-cfd81f46-3429-4741-bbb3-b32015a388ac.png)
-![cell-circular-wave](https://user-images.githubusercontent.com/185555/189466571-45edca20-475f-47bb-b5f5-0849e715c948.png)
