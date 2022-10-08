@@ -29,13 +29,13 @@ https://press.stripe.com/the-dream-machine
 
 ![image](https://user-images.githubusercontent.com/185555/194683531-67fd2071-2094-4ede-be79-d33ff642000b.png)
 
-- REF Paper (Quote):  
+- Source: Paper (quote above):  
   "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability)"  
 [Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo), February 9, 2017
 
-- Context:
-  - "[Nick Szabo & Naval Ravikant](https://www.youtube.com/watch?v=IykYU9Cfty0)" - blockchain conceptual fundamentals.
-  - "[Nick Szabo and Naval Ravikant - 2017 Conversation](https://www.youtube.com/watch?v=OP8WbEMEg-A)"
+- Context (background):
+  - "[Nick Szabo & Naval Ravikant](https://www.youtube.com/watch?v=IykYU9Cfty0)" - blockchain conceptual fundamentals - 2017
+  - "[Nick Szabo and Naval Ravikant](https://www.youtube.com/watch?v=OP8WbEMEg-A)" - 2017 follow on conversation
 
 ---
 
