@@ -3,27 +3,39 @@
 
 ---
 
+## History: Framing Contexts
+
+### [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider#Psychoacoustics)
+Initial Pentagon funder of the research community in the 1950/60s that ultimately produced things like "The Internet."
+
+Field of study: [Psychoacoustics](https://en.wikipedia.org/wiki/Psychoacoustics)
+
+
+
 ![image](https://user-images.githubusercontent.com/185555/194683375-de45b650-20ef-4b60-9366-8a4d3cdf7728.png)
 
 Licklider's vision that he used to  coordinate and guide the direction of the disparate talent that formed  ARPA/DARPA research community.
 
-Ref - Alan Kay quoting Lick’s vision and proving context (how to think about it):
+- Ref - Alan Kay quoting Lick’s vision and proving context (how to think about it):
 https://youtu.be/NY6XqmMm4YA?t=1379
 
-Ref - Licklidker
+- Ref - Licklidker
 https://en.wikipedia.org/wiki/J._C._R._Licklider
 
-Ref (extremely good history on the man, the period, and the emergence of the computing and the internet.
+- Ref (extremely good history on the man, the period, and the emergence of the computing and the internet.
 https://press.stripe.com/the-dream-machine
 
 ---
 
 ![image](https://user-images.githubusercontent.com/185555/194683531-67fd2071-2094-4ede-be79-d33ff642000b.png)
 
-REF
-Money, Blockchains, and Social Scalability
-Nick Szabo, February 9, 2017
-https://nakamotoinstitute.org/money-blockchains-and-social-scalability
+- REF Paper (Quote):  
+  "[Money, Blockchains, and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability)"  
+[Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo), February 9, 2017
+
+- Context:
+  - "[Nick Szabo & Naval Ravikant](https://www.youtube.com/watch?v=IykYU9Cfty0)" - blockchain conceptual fundamentals.
+  - "[Nick Szabo and Naval Ravikant - 2017 Conversation](https://www.youtube.com/watch?v=OP8WbEMEg-A)"
 
 ---
 
