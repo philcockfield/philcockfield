@@ -18,6 +18,15 @@ https://press.stripe.com/the-dream-machine
 
 ---
 
+![image](https://user-images.githubusercontent.com/185555/194683531-67fd2071-2094-4ede-be79-d33ff642000b.png)
+
+REF
+Money, Blockchains, and Social Scalability
+Nick Szabo, February 9, 2017
+https://nakamotoinstitute.org/money-blockchains-and-social-scalability
+
+---
+
 ![image](https://user-images.githubusercontent.com/185555/190883023-a2750977-7295-4a40-a6b3-d7ed7e772935.png)
 
   
