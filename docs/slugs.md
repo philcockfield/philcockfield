@@ -3,6 +3,21 @@
 
 ---
 
+![image](https://user-images.githubusercontent.com/185555/194683375-de45b650-20ef-4b60-9366-8a4d3cdf7728.png)
+
+Licklider's vision that he used to  coordinate and guide the direction of the disparate talent that formed  ARPA/DARPA research community.
+
+Ref - Alan Kay quoting Lick’s vision and proving context (how to think about it):
+https://youtu.be/NY6XqmMm4YA?t=1379
+
+Ref - Licklidker
+https://en.wikipedia.org/wiki/J._C._R._Licklider
+
+Ref (extremely good history on the man, the period, and the emergence of the computing and the internet.
+https://press.stripe.com/the-dream-machine
+
+---
+
 ![image](https://user-images.githubusercontent.com/185555/190883023-a2750977-7295-4a40-a6b3-d7ed7e772935.png)
 
   
