@@ -6,9 +6,9 @@
 ## History: Framing Contexts
 
 ### [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider#Psychoacoustics)
-Initial Pentagon funder of the research community in the 1950/60s that ultimately produced things like "The Internet."
+Initial Pentagon funder of the research community in the 1950/60s that ultimately produced things like "The Internet" (a profound accomplishment for humanity, and example of collectively distributed globally decentralized network packet routing system.)
 
-Field of study: [Psychoacoustics](https://en.wikipedia.org/wiki/Psychoacoustics)
+<!-- Field of study: [Psychoacoustics](https://en.wikipedia.org/wiki/Psychoacoustics) -->
 
 
 
