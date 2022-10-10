@@ -20,3 +20,8 @@ holding patterns
 ![kay-pure-relationships](https://user-images.githubusercontent.com/185555/186360463-cfd81f46-3429-4741-bbb3-b32015a388ac.png)
 
 [ref](https://github.com/cellplatform/platform-0.2.0)
+
+
+---
+
+![time](https://user-images.githubusercontent.com/185555/194809383-211faa94-be60-4414-bc35-57f82cdecd09.png)
