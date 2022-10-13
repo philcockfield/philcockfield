@@ -10,9 +10,8 @@
 Ref: **Alan Kay** ([timestmp](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s))  
 Ref: **Bruner** ([Wikipedia](https://en.wikipedia.org/wiki/Jerome_Bruner)) (sys.edu: Education Theorist)
 
-logic as a fragile inference system, dependent more on the strength of the context it resides within.
-
-Focus on getting the contexts right
+Logic as a fragile inference system, dependent more on the strength of the context it resides within.
+Focus on getting the contexts right:
 
 >> "It's not logic that is powerful...logic is actually a weak method because it depends on fragile chains of inference.  And people have used logic throughout history, but mostly in inappropriate contexts. 
 
