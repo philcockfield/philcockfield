@@ -17,7 +17,7 @@ Focus on getting the contexts right:
 
 >> There is nothing illogical about the way the alchemists or the babylonians did things, it's that they were in a context in which their logic couldn't do much"
 
->> "**This notion that the context is powerful** - and if you want to be good at solving problems and acting much smarter than you are then you have to find a context that is going to do most of the thinking for you."
+>> "**This notion that the context is powerful** - and if you want to be good at solving problems and acting much smarter than you are then you have to find a context that is going to do most of the thinking for you." - **Alan Kay**
 
 
 
