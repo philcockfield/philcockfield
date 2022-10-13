@@ -3,6 +3,7 @@
 
 ---
 
+## Kay/Bruner: Doing with Images makes Symbols
 
 
 ![image](https://user-images.githubusercontent.com/185555/195513880-7edf14f6-a70f-42fd-ba85-c08a873c559f.png)
