@@ -3,6 +3,28 @@
 
 ---
 
+
+
+![image](https://user-images.githubusercontent.com/185555/195513880-7edf14f6-a70f-42fd-ba85-c08a873c559f.png)
+
+Ref: **Alan Kay** ([timestmp](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s))
+
+logic as a fragile inference system, dependent more on the strength of the context it resides within.
+
+Focus on getting the contexts right
+
+>> "It's not logic that is powerful...logic is actually a weak method because it depends on fragile chains of inference.  And people have used logic throughout history, but mostly in inappropriate contexts. 
+
+>> There is nothing illogical about the way the alchemists or the babylonians did things, it's that they were in a context in which their logic couldn't do much"
+
+>> "This notion that the context is powerful - and if you want to be good at solving problems and acting much smarter than you are then you have to find a context that is going to do most of the thinking for you."
+
+
+ref **Bruner** (https://en.wikipedia.org/wiki/Jerome_Bruner) (sys.edu: Education Theorist)
+
+
+---
+
 ## History: Framing Contexts
 
 ### [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider#Psychoacoustics)
