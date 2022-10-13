@@ -20,7 +20,7 @@ Focus on getting the contexts right
 >> "**This notion that the context is powerful** - and if you want to be good at solving problems and acting much smarter than you are then you have to find a context that is going to do most of the thinking for you."
 
 
-ref **Bruner** (https://en.wikipedia.org/wiki/Jerome_Bruner) (sys.edu: Education Theorist)
+ref **Bruner** ([Wikipedia](https://en.wikipedia.org/wiki/Jerome_Bruner)) (sys.edu: Education Theorist)
 
 
 ---
