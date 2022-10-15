@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/185555/195513880-7edf14f6-a70f-42fd-ba85-c08a873c559f.png)
 
 Ref: **Alan Kay** ([timestmp](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s))  
-Ref: **Jerome Bruner** ([Wikipedia](https://en.wikipedia.org/wiki/Jerome_Bruner)) (sys.edu: Education Theorist)
+Ref: **Jerome Bruner** ([wikipedia](https://en.wikipedia.org/wiki/Jerome_Bruner)) (sys.edu: Education Theorist)
 
 Logic as a fragile inference system, dependent more on the strength of the context it resides within.
 Focus on getting the contexts right:
