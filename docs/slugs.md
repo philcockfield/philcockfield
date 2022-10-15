@@ -1,6 +1,12 @@
 # Conceptual Slugs
 
 
+
+
+
+
+
+
 ---
 
 ## Kay/Bruner: Doing with Images makes Symbols
@@ -19,6 +25,8 @@ Focus on getting the contexts right:
 >> There is nothing illogical about the way the alchemists or the babylonians did things, it's that they were in a context in which their logic couldn't do much"
 
 >> "**This notion that the context is powerful** - and if you want to be good at solving problems and acting much smarter than you are then you have to find a context that is going to do most of the thinking for you." - **Alan Kay**
+
+![doing-images-symbols-alan-kay-jerome-bruner](https://user-images.githubusercontent.com/185555/196007675-59e4f989-2fed-465a-a942-00888f969944.png)
 
 
 
