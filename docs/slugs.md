@@ -9,7 +9,7 @@
 
 ![pedagogy-paul-roma-reading-why-info-grows](https://user-images.githubusercontent.com/185555/196007783-9ca7b8fb-a9a2-4821-9916-6f5aa6576b4a.png)
 
-- Source (above): [Paul Roma](https://en.wikipedia.org/wiki/Paul_Romer) - "[Why Information Grows](https://paulromer.net/why-information-grows/)" (2015,blog post summary of):
+- Source (above): [Paul Roma](https://en.wikipedia.org/wiki/Paul_Romer) - "[Why Information Grows](https://paulromer.net/why-information-grows/)" (2015, blog post summary of):
 - Book by [César Hidalgo](https://en.wikipedia.org/wiki/C%C3%A9sar_Hidalgo) - "[Why Information Grows: The Evolution of Order, from Atoms to Economies](https://www.amazon.com/Why-Information-Grows-Evolution-Economies-ebook/dp/B00TT1VLAO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)" 
 
 ---
