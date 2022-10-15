@@ -7,14 +7,12 @@
 ## Pedagogic Transfer (Information Theory)
 
 
+<img width="1065" alt="image" src="https://user-images.githubusercontent.com/185555/196008133-d0ba040b-3cbf-4102-9622-a76f81d726b9.png">
 
-- Source (above): [Paul Roma](https://en.wikipedia.org/wiki/Paul_Romer) - "[Why Information Grows](https://paulromer.net/why-information-grows/)" (2015, blog post summary of):
+
+- [Paul Roma](https://en.wikipedia.org/wiki/Paul_Romer) - "[Why Information Grows](https://paulromer.net/why-information-grows/)" (2015, essay summary of):
 - Book by [César Hidalgo](https://en.wikipedia.org/wiki/C%C3%A9sar_Hidalgo) - "[Why Information Grows: The Evolution of Order, from Atoms to Economies](https://www.amazon.com/Why-Information-Grows-Evolution-Economies-ebook/dp/B00TT1VLAO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)" 
 
-
----
-
-<img width="1065" alt="image" src="https://user-images.githubusercontent.com/185555/196008133-d0ba040b-3cbf-4102-9622-a76f81d726b9.png">
 
 
 
