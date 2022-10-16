@@ -74,6 +74,8 @@ https://press.stripe.com/the-dream-machine
 
 ---
 
+## Nick Szabo - Social Scalability
+
 ![image](https://user-images.githubusercontent.com/185555/194683531-67fd2071-2094-4ede-be79-d33ff642000b.png)
 
 - Source: Paper (quote above):  
