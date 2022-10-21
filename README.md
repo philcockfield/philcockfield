@@ -24,7 +24,12 @@ holding patterns
 
 ---
 
-![time](https://user-images.githubusercontent.com/185555/194809696-ae81dd90-cafc-4a42-90ce-62db63054df6.png)
+
+![time-profile-github](https://user-images.githubusercontent.com/185555/197145092-741d82a0-3168-40e5-8e97-f22479d8d502.png)
 
 
+---
+
+![doing-images-symbols](https://user-images.githubusercontent.com/185555/196011268-378be479-55e5-4ca6-a25c-5757c58c15b0.png)
+[Ref](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s): Jerome Bruner ← Alan Kay ([timestamp](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s))
 
