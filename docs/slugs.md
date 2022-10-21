@@ -45,6 +45,8 @@ Focus on getting the contexts right:
 
 ![doing-images-symbols-alan-kay-jerome-bruner](https://user-images.githubusercontent.com/185555/196007675-59e4f989-2fed-465a-a942-00888f969944.png)
 
+![doing-images-symbols](https://user-images.githubusercontent.com/185555/196011268-378be479-55e5-4ca6-a25c-5757c58c15b0.png)
+[Ref](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s): Jerome Bruner ← Alan Kay ([timestamp](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s))
 
 
 
