@@ -26,13 +26,11 @@ holding patterns
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
 ![time-profile-github](https://user-images.githubusercontent.com/185555/197145092-741d82a0-3168-40e5-8e97-f22479d8d502.png)
 
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 
