@@ -17,7 +17,7 @@ holding patterns
 ---
 
 ![fn](https://user-images.githubusercontent.com/185555/215008814-dfcbaf7a-5838-4250-8d7e-66b79f0d535f.png)
-![smor-sys crdt-cell](https://user-images.githubusercontent.com/185555/215009089-057b9a9f-f0cb-4201-a214-5dab50d776e3.png)
+![smor-sys crdt-cell](https://user-images.githubusercontent.com/185555/221512720-7449daab-42e7-4535-8fdc-77463f7678cf.png)
 ![func](https://user-images.githubusercontent.com/185555/186598296-c41a1c07-8a20-454e-82ae-e1fb432ebb04.png)
 ![@platform](https://user-images.githubusercontent.com/185555/88729229-76ac1280-d187-11ea-81c6-14146ec64848.png)
 ![kay-pure-relationships](https://user-images.githubusercontent.com/185555/186360463-cfd81f46-3429-4741-bbb3-b32015a388ac.png)
