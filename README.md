@@ -5,6 +5,8 @@
 - twitter/[@philcockfield](https://twitter.com/philcockfield)
 - conceptual [slugs](/docs/slugs.md)
 
+<a rel="me" href="https://mastodon.nz/@phil"></a>
+
 ---
 
 holding patterns
