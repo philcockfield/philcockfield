@@ -1,8 +1,7 @@
 - [phil.cockfield.net](https://phil.cockfield.net)
 - [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0)
 - github/[cellplatform](https://github.com/cellplatform)
-- <a rel="me" href="https://mastodon.nz/@phil">mastodon.nz/@phil</a> (W3C [ActivityPub](https://www.w3.org/TR/activitypub/))
-- mastodon.nz/[@phil](https://mastodon.nz/@phil)
+- mastodon.nz/<a rel="me" href="https://mastodon.nz/@phil">@phil</a> (← W3C [ActivityPub](https://www.w3.org/TR/activitypub/))
 - twitter/[@philcockfield](https://twitter.com/philcockfield)
 - conceptual [slugs](/docs/slugs.md)
 
