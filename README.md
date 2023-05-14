@@ -14,7 +14,7 @@
 experimental holding patterns (systems)
 
 - [db.team](https://db.team)
-- [bus.events](https://bus.events)  (← webrtc | farcaster)
+- [bus.events](https://bus.events)  (← webrtc | farcaster ← protocol)
 - [sys.family](https://sys.family)
 - [sys.education](https://sys.education)
 
