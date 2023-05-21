@@ -2,7 +2,7 @@
 - [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0)
 - github/[philcockfield](https://github.com/philcockfield) (← self)
 - github/[cellplatform](https://github.com/cellplatform)
-- farcaster/[warpcast/pjc](https://warpcast.com/pjc)
+- farcaster/[@pjc](https://warpcast.com/pjc)
 - twitter/[@philcockfield](https://twitter.com/philcockfield)
 - mastodon.nz/<a rel="me" href="https://mastodon.nz/@phil">@phil</a> (← W3C [ActivityPub](https://www.w3.org/TR/activitypub/) ← [ActivityStreams](https://www.w3.org/TR/activitystreams-core/))
 - ens/[philcockfield.eth](https://app.ens.domains/philcockfield.eth)
