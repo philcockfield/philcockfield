@@ -18,6 +18,7 @@ experimental holding patterns (systems)
 - [sys.education](https://sys.education)
 
 ---
+ƒ(n)
 
 ![fn](https://user-images.githubusercontent.com/185555/215008814-dfcbaf7a-5838-4250-8d7e-66b79f0d535f.png)
 ![smor-sys crdt-cell](https://user-images.githubusercontent.com/185555/233560802-f4b2e339-bb90-40cf-b3fc-78387c1f853a.png)
