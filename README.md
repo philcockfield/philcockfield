@@ -33,7 +33,8 @@ experimental holding patterns (systems)
 <p>&nbsp;</p>
 
 
-![time-profile-github](https://user-images.githubusercontent.com/185555/197145092-741d82a0-3168-40e5-8e97-f22479d8d502.png)
+![time-profile-github](https://github.com/philcockfield/philcockfield/assets/185555/8154d0f6-bee4-4033-b6ef-93688d07c50d)
+
 
 
 <p>&nbsp;</p>
