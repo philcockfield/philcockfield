@@ -1,4 +1,4 @@
-- [phil.cockfield.net](https://phil.cockfield.net)
+- [phil.cockfield.net](https://phil.cockfield.net?dev)
 - [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0)
 - github/[philcockfield](https://github.com/philcockfield) (← self)
 - github/[cellplatform](https://github.com/cellplatform)
