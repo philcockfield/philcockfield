@@ -2,8 +2,7 @@
 - [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0)
 - github/[philcockfield](https://github.com/philcockfield) (← self)
 - github/[cellplatform](https://github.com/cellplatform)
-- farcaster/[@pjc](https://warpcast.com/pjc)
-- twitter/[@philcockfield](https://twitter.com/philcockfield)
+- farcaster/[@pjc](https://warpcast.com/philcockfield.eth)
 - ens/[philcockfield.eth](https://app.ens.domains/philcockfield.eth)
 
 
