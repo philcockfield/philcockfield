@@ -1,3 +1,5 @@
+🐵 ← 🙈🙉🙊 → ƒ( trust over time ) → ƒ( open/commons ) → sys
+
 - [phil.cockfield.net](https://phil.cockfield.net?dev)
 - [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0) (monorepo) ← sustained long range R&D
 - github/[philcockfield](https://github.com/philcockfield) (← self)
