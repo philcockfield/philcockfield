@@ -52,10 +52,12 @@ decentralisd ƒ(n)
 
 
 <p>&nbsp;</p>
----
+
+---------
+
 <p>&nbsp;</p>
 
-/sys
-/sys.<namespace>
+/sys  
+/sys.namespace
 
 ![@platform](https://user-images.githubusercontent.com/185555/88729229-76ac1280-d187-11ea-81c6-14146ec64848.png)
