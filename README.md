@@ -33,7 +33,7 @@ decentralisd ƒ(n)
 
 <p>&nbsp;</p>
 
-# namespacing (system)
+# /sys: namespacing (system)
 module distribution (networked), `A1:version:hash`, software-supply-chain ←(<T> security properties).
 
 /sys  
@@ -49,7 +49,7 @@ module distribution (networked), `A1:version:hash`, software-supply-chain ←(<T
 
 <p>&nbsp;</p>
 
-### Design/Conceptual Refs
+### Design/Conceptual Refs (External)
 
 ![kay-pure-relationships](https://user-images.githubusercontent.com/185555/186360463-cfd81f46-3429-4741-bbb3-b32015a388ac.png)
 [ref](https://github.com/cellplatform/platform-0.2.0)
@@ -73,7 +73,12 @@ module distribution (networked), `A1:version:hash`, software-supply-chain ←(<T
 
 
 ![doing-images-symbols](https://user-images.githubusercontent.com/185555/196011268-378be479-55e5-4ca6-a25c-5757c58c15b0.png)
-↑ [Ref](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s): Jerome Bruner ← Alan Kay ([timestamp](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s)) 
+↑ [ref](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s): Jerome Bruner ← Alan Kay ([timestamp](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s)) 
 ↑ Bret Victor: "The Humane Representation of Thought" ([timestamp](https://www.youtube.com/watch?v=agOdP2Bmieg))
 
+
+<p>&nbsp;</p>
+
+![pedagogy-paul-roma-reading-why-info-grows](https://github.com/philcockfield/philcockfield/assets/185555/105206c2-2fbe-41ff-8bf3-29401980c2ce)
+↑ [ref](https://paulromer.net/why-information-grows/): Paul Roma, 2015
 
