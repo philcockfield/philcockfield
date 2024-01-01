@@ -73,6 +73,9 @@ module distribution (networked), `A1:version:hash`, software-supply-chain ←(<T
 
 
 ![doing-images-symbols](https://user-images.githubusercontent.com/185555/196011268-378be479-55e5-4ca6-a25c-5757c58c15b0.png)
+
+<p>&nbsp;</p>
+
 ↑ [ref](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s): Jerome Bruner ← Alan Kay ([timestamp](https://www.youtube.com/watch?v=Ud8WRAdihPg&t=24s)) 
 ↑ Bret Victor: "The Humane Representation of Thought" ([timestamp](https://www.youtube.com/watch?v=agOdP2Bmieg))
 
