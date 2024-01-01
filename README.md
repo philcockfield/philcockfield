@@ -80,5 +80,6 @@ module distribution (networked), `A1:version:hash`, software-supply-chain ←(<T
 <p>&nbsp;</p>
 
 ![pedagogy-paul-roma-reading-why-info-grows](https://github.com/philcockfield/philcockfield/assets/185555/105206c2-2fbe-41ff-8bf3-29401980c2ce)
-↑ [ref](https://paulromer.net/why-information-grows/): Paul Roma, 2015
+↑ [ref](https://paulromer.net/why-information-grows/): Paul Roma, 2015  
+↑ [ref](https://en.wikipedia.org/wiki/C%C3%A9sar_Hidalgo) Summary of book: "Why Informatinon Grows" - Cesar Hidalgo, Physics/Economics
 
