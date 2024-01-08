@@ -5,7 +5,7 @@
 - github/[philcockfield](https://github.com/philcockfield) (← self)
 - github/[cellplatform](https://github.com/cellplatform)
 - farcaster/[@philcockfield.eth](https://warpcast.com/philcockfield.eth)
-- ens/[philcockfield.eth](https://app.e ns.domains/philcockfield.eth)
+- ens/[philcockfield.eth](https://app.ens.domains/philcockfield.eth)
 - ens/[sys.eth](https://app.ens.domains/sys.eth)
 
 
