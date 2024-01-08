@@ -24,7 +24,7 @@ decentralisd ƒ(n)
 ![fn](https://user-images.githubusercontent.com/185555/215008814-dfcbaf7a-5838-4250-8d7e-66b79f0d535f.png)
 ![smor-sys crdt-cell-timeline](https://github.com/philcockfield/philcockfield/assets/185555/74ab2852-d316-4a5d-9192-05c934007f36)![func](https://user-images.githubusercontent.com/185555/186598296-c41a1c07-8a20-454e-82ae-e1fb432ebb04.png)
 
-![smor-model-group-scale-n-dimension-cell](https://github.com/philcockfield/philcockfield/assets/185555/b8d2bd70-97ea-406b-a702-2b0200b041e3)
+<img width="1999" alt="smor-model-group-scale-n-dimension-cell" src="https://github.com/philcockfield/philcockfield/assets/185555/4049287b-67c4-4727-9f9c-49c4989ca2e0">
 
 
 <p>&nbsp;</p>
