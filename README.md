@@ -4,7 +4,7 @@
 - [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0) (monorepo) ← sustained long range R&D
 - github/[philcockfield](https://github.com/philcockfield) (← self)
 - github/[cellplatform](https://github.com/cellplatform)
-- farcaster/[@philcockfield.eth](https://warpcast.com/philcockfield.eth)
+- farcaster/[@pjc](https://warpcast.com/pjc)
 - ens/[philcockfield.eth](https://app.ens.domains/philcockfield.eth)
 - ens/[sys.eth](https://app.ens.domains/sys.eth)
 
