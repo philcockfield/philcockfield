@@ -14,9 +14,10 @@
 experimental holding patterns (systems)
 
 - [db.team](https://db.team)
-- [bus.events](https://bus.events)  (← (webrtc | farcaster) ← protocol)
 - [sys.family](https://sys.family)
 - [sys.education](https://sys.education)
+- [bus.events](https://bus.events)  ← (webrtc | farcaster) ← protocol
+- [fjson.org](https://fjson.org/)  ← functional JSON standard (futures)
 
 ---
 decentralisd ƒ(n)
