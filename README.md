@@ -1,13 +1,12 @@
 🐵 ← 🙈🙉🙊 → ƒ( trust over time ) → ƒ( open/commons ) → sys
 
 - [phil.cockfield.net](https://phil.cockfield.net?dev)
-- github/[sys-repo/sys](https://github.com/sys-repo/sys) (monorepo) ← sustained long range R&D
-- github/[platform-0.2.0](https://github.com/cellplatform/platform-0.2.0) ↑ (archived), rebuilding into ↑
-- github/[philcockfield](https://github.com/philcockfield) (← self)
-- github/[cellplatform](https://github.com/cellplatform)
-- farcaster/[@pjc](https://warpcast.com/pjc)
-- ens/[philcockfield.eth](https://app.ens.domains/philcockfield.eth)
-- ens/[sys.eth](https://app.ens.domains/sys.eth)
+- github/sys-repo/ [sys](https://github.com/sys-repo/sys) (monorepo) ← sustained long range R&D
+- github/cellplatform/ [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0) ↑ (archived), rebuilding into ↑
+- github/ [philcockfield](https://github.com/philcockfield) (← self)
+- farcaster/ [@pjc](https://warpcast.com/pjc)
+- ens/ [philcockfield.eth](https://app.ens.domains/philcockfield.eth)
+- ens/ [sys.eth](https://app.ens.domains/sys.eth)
 
 
 ---
