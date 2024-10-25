@@ -1,12 +1,13 @@
 🐵 ← 🙈🙉🙊 → ƒ( trust over time ) → ƒ( open/commons ) → sys
 
 - [phil.cockfield.net](https://phil.cockfield.net?dev)
-- github/sys-repo/ [sys](https://github.com/sys-repo/sys) (monorepo) ← sustained long range R&D
-- github/cellplatform/ [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0) ↑ (archived), rebuilding into ↑
-- github/ [philcockfield](https://github.com/philcockfield) (← self)
-- farcaster/ [@pjc](https://warpcast.com/pjc)
-- ens/ [philcockfield.eth](https://app.ens.domains/philcockfield.eth)
-- ens/ [sys.eth](https://app.ens.domains/sys.eth)
+- system namespace [@sys](https://jsr.io/@sys) (JSR Scope)
+- github/sys-repo / [sys](https://github.com/sys-repo/sys) (monorepo) ← sustained long range R&D
+- github/cellplatform / [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0) ↑ (archived), rebuilding into ↑
+- github / [philcockfield](https://github.com/philcockfield) (← self ref: this github profile)
+- farcaster / [@pjc](https://warpcast.com/pjc) (`fid:12567`)
+- ens / [philcockfield.eth](https://app.ens.domains/philcockfield.eth)
+- ens / [sys.eth](https://app.ens.domains/sys.eth)
 
 
 ---
@@ -34,11 +35,20 @@ decentralisd ƒ(n)
 
 <p>&nbsp;</p>
 
-# /sys: namespacing (system)
+# "sys" ← system namespace
+
+(WIP) Notes:  
 module distribution (networked), `A1:version:hash`, software-supply-chain ←(<T> security properties).
 
 /sys  
 /sys.\<namespace\>
+
+```
+import { N } from 'jsr:@sys/<module>'
+```
+
+jsr scope: @sys
+
 
 ![@platform](https://user-images.githubusercontent.com/185555/88729229-76ac1280-d187-11ea-81c6-14146ec64848.png)
 
