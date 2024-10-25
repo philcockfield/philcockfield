@@ -21,7 +21,7 @@ experimental holding patterns (systems)
 - [fjson.org](https://fjson.org/)  ← functional JSON standard (futures)
 
 ---
-decentralisd ƒ(n)
+decentralisd `ƒ(n)`
 
 ![fn](https://user-images.githubusercontent.com/185555/215008814-dfcbaf7a-5838-4250-8d7e-66b79f0d535f.png)
 ![smor-sys crdt-cell-timeline](https://github.com/philcockfield/philcockfield/assets/185555/74ab2852-d316-4a5d-9192-05c934007f36)![func](https://user-images.githubusercontent.com/185555/186598296-c41a1c07-8a20-454e-82ae-e1fb432ebb04.png)
@@ -93,7 +93,15 @@ jsr scope: @sys
 
 <p>&nbsp;</p>
 
+### Information Theory
+
+**An example of compression**:  
+Paul Roma summarises César Hidalgo's ~304 page book to 1,263 word (2.5 page) [blog post](https://paulromer.net/why-information-grows/) structured as a 25 point numbered list of Hidalgo's concpetion of information-theory, from the scale of it's atomic roots of information theory up to the size of global economies, without invoking a bunch of the usual social sciences that typically inform economic thinking in the middle.  
+
 ![pedagogy-paul-roma-reading-why-info-grows](https://github.com/philcockfield/philcockfield/assets/185555/105206c2-2fbe-41ff-8bf3-29401980c2ce)
 ↑ [ref](https://paulromer.net/why-information-grows/): Paul Roma, 2015  
-↑ [ref](https://en.wikipedia.org/wiki/C%C3%A9sar_Hidalgo) Summary of book: "Why Informatinon Grows" - Cesar Hidalgo, Physics/Economics
+↑ [ref](https://en.wikipedia.org/wiki/C%C3%A9sar_Hidalgo) Summary of book: "Why Informatinon Grows" - César A. Hidalgo, Physics/Economics
+
+<p>&nbsp;</p>
+↑ (adjacent thought, "intelligence" can also be thought of as a dynamic form of information compression)
 
