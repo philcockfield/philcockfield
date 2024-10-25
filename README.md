@@ -5,7 +5,7 @@
 - github/sys-repo / [sys](https://github.com/sys-repo/sys) (monorepo) ← sustained long range R&D
 - github/cellplatform / [platform-0.2.0](https://github.com/cellplatform/platform-0.2.0) ↑ (archived), rebuilding into ↑
 - github / [philcockfield](https://github.com/philcockfield) (← self ref: this github profile)
-- farcaster / [@pjc](https://warpcast.com/pjc) (`fid:12567`)
+- farcaster / [@pjc](https://warpcast.com/pjc) (← [fid](https://docs.farcaster.xyz/learn/what-is-farcaster/accounts#creating-an-account): `12567` )
 - ens / [philcockfield.eth](https://app.ens.domains/philcockfield.eth)
 - ens / [sys.eth](https://app.ens.domains/sys.eth)
 
