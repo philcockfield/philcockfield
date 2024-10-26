@@ -96,7 +96,7 @@ jsr scope: @sys
 ### Information Theory
 
 **An example of compression**:  
-Paul Roma summarises César Hidalgo's ~304 page book to 1,263 word (2.5 page) [blog post](https://paulromer.net/why-information-grows/) structured as a 25 point numbered list of Hidalgo's concpetion of information-theory, from the scale of it's atomic roots of information theory up to the size of global economies, without invoking a bunch of the usual social sciences that typically inform economic thinking in the middle.  
+[Paul Roma](https://en.wikipedia.org/wiki/Paul_Romer) summarises [César Hidalgo](https://en.wikipedia.org/wiki/C%C3%A9sar_Hidalgo)'s ~304 page book into 1,263 words (2.5 pages) [blog post](https://paulromer.net/why-information-grows/) structured as a 25 point numbered list, the sequence of Hidalgo's concpetion and argument of information-theory  scales up from it's atomic roots of information theory, to the size of global economies (made without invoking a bunch of the usual social sciences that typically inform economic thinking in the middle).  
 
 ![pedagogy-paul-roma-reading-why-info-grows](https://github.com/philcockfield/philcockfield/assets/185555/105206c2-2fbe-41ff-8bf3-29401980c2ce)
 ↑ [ref](https://paulromer.net/why-information-grows/): Paul Roma, 2015  
