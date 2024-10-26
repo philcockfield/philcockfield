@@ -105,3 +105,14 @@ Paul Roma summarises César Hidalgo's ~304 page book to 1,263 word (2.5 page) [b
 <p>&nbsp;</p>
 ↑ (adjacent thought, "intelligence" can also be thought of as a dynamic form of information compression)
 
+
+<p>&nbsp;</p>
+
+---
+
+<p>&nbsp;</p>
+
+
+![image](https://github.com/user-attachments/assets/04b868b8-d2f5-49ca-9f65-9bfe0d6f83d5)
+
+
