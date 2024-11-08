@@ -1,7 +1,7 @@
 🐵 ← 🙈🙉🙊 → ƒ( trust over time ) → ƒ( open/commons ) → sys
 
 - [phil.cockfield.net](https://phil.cockfield.net?dev)
-- system namespace [@sys](https://jsr.io/@sys) (JSR Scope)
+- system namespace/scope [@sys](https://jsr.io/@sys) (JSR)
 - github/sys-repo / [sys](https://github.com/sys-repo/sys) (monorepo) ← sustained long range R&D
 - github / [philcockfield](https://github.com/philcockfield) (← self ref: this github profile)
 - farcaster / [@pjc](https://warpcast.com/pjc) (← [fid](https://docs.farcaster.xyz/learn/what-is-farcaster/accounts#creating-an-account): `12567` )
