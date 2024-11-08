@@ -4,7 +4,7 @@
 - system namespace/scope [@sys](https://jsr.io/@sys) (JSR)
 - github/sys-repo / [sys](https://github.com/sys-repo/sys) (monorepo) ← sustained long range R&D
 - github / [philcockfield](https://github.com/philcockfield) (← self ref: this github profile)
-- farcaster / [@pjc](https://warpcast.com/pjc) (← [fid](https://docs.farcaster.xyz/learn/what-is-farcaster/accounts#creating-an-account): `12567` )
+- farcaster / [@pjc](https://warpcast.com/pjc) (← [fid](https://docs.farcaster.xyz/learn/what-is-farcaster/accounts#creating-an-account): `12,567` )
 - ens / [philcockfield.eth](https://app.ens.domains/philcockfield.eth)
 - ens / [sys.eth](https://app.ens.domains/sys.eth)
 
