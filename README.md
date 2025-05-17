@@ -24,7 +24,8 @@ decentralisd, distributed `ƒ(n):💦`
 
 <p>&nbsp;</p>
 
-![smor-sys crdt-cell-timeline](https://github.com/philcockfield/philcockfield/assets/185555/74ab2852-d316-4a5d-9192-05c934007f36)![func](https://user-images.githubusercontent.com/185555/186598296-c41a1c07-8a20-454e-82ae-e1fb432ebb04.png)
+<img width="3447" alt="smor-sys crdt-cell" src="https://github.com/user-attachments/assets/0fd8e791-5057-401c-8ed7-49ae5a3a5e9d" />
+
 
 <img width="1703" alt="deno-vite-v8-isolate-w3c-typescript-esm-logos" src="https://github.com/user-attachments/assets/4ed36505-e8ce-499e-8290-f17ff1dcac6a" />
 
