@@ -120,18 +120,7 @@ jsr scope: @sys
 
 <p>&nbsp;</p>
 
-
 ![image](https://github.com/user-attachments/assets/04b868b8-d2f5-49ca-9f65-9bfe0d6f83d5)
 
-
 <p>&nbsp;</p>
-
----
-
-<p>&nbsp;</p>
-
-![image](https://github.com/user-attachments/assets/daf866e4-b92e-4280-b83d-9b1e42b45757)
-![image](https://github.com/user-attachments/assets/affeac01-63a1-4efd-83b3-992c541d1e05)
-
-
 
