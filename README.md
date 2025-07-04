@@ -1,3 +1,4 @@
+[![ci-jsr][ci-jsr-image]][ci-jsr-url]
 🐵 ← 🙈🙉🙊 → ƒ( trust over time ) → ƒ( open/commons ) → sys
 
 - [phil.cockfield.net](https://phil.cockfield.net?dev)
