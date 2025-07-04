@@ -2,7 +2,7 @@
 
 - [phil.cockfield.net](https://phil.cockfield.net?dev)
 - system namespace/scope [@sys](https://jsr.io/@sys) (JSR)
-- github/sys-repo / [sys](https://github.com/sys-repo/sys) (monorepo) ← sustained long range R&D
+- github/sys-repo / [sys](https://github.com/sys-repo/sys) (monorepo) ← sustained long range R&D (🧫 [system](https://github.com/sys-repo/sys))
 - github / [philcockfield](https://github.com/philcockfield) (← self ref: this github profile)
 - farcaster / [@pjc](https://farcaster.xyz/pjc) (← [fid](https://docs.farcaster.xyz/learn/what-is-farcaster/accounts#creating-an-account): `12,567` )
 - ens / [philcockfield.eth](https://app.ens.domains/philcockfield.eth)
