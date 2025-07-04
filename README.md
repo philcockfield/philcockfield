@@ -1,5 +1,10 @@
 [![ci-jsr][ci-jsr-image]][ci-jsr-url]
 
+[ci-jsr-image]: https://github.com/sys-repo/sys/actions/workflows/jsr.yaml/badge.svg
+[ci-jsr-url]: https://github.com/sys-repo/sys/actions/workflows/jsr.yaml
+
+
+
 🐵 ← 🙈🙉🙊 → ƒ( trust over time ) → ƒ( open/commons ) → sys
 
 - [phil.cockfield.net](https://phil.cockfield.net?dev)
