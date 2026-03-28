@@ -42,7 +42,7 @@ decentralisd, distributed `ƒ(n):💦`
 
 <img width="1999" alt="smor-model-group-scale-n-dimension-cell" src="https://github.com/philcockfield/philcockfield/assets/185555/4049287b-67c4-4727-9f9c-49c4989ca2e0">
 
-![image](https://github.com/user-attachments/assets/ccc5d9e5-a73f-4e40-8fe5-e494f575d603)
+<img width="2043" height="1444" alt="person-byte-conversation" src="https://github.com/user-attachments/assets/bd6a9ed3-19fc-4751-883c-439fc8a1e24e" />
 
 
 <p>&nbsp;</p>
@@ -51,20 +51,9 @@ decentralisd, distributed `ƒ(n):💦`
 
 <p>&nbsp;</p>
 
-# "sys" ← system namespace
+# @sys ← system namespace
 
-(WIP) Notes:  
-module distribution (networked), `A1:version:hash`, software-supply-chain ←(<T> security properties).
-
-/sys  
-/sys.\<namespace\>
-
-```
-import { N } from 'jsr:@sys/<module>'
-```
-
-jsr scope: @sys
-
+[jsr.io/@sys](https://jsr.io/@sys)
 
 ![@platform](https://user-images.githubusercontent.com/185555/88729229-76ac1280-d187-11ea-81c6-14146ec64848.png)
 
