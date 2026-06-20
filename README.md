@@ -23,7 +23,7 @@ experimental holding patterns (systems)
 - [db.team](https://db.team)
 - [sys.family](https://sys.family)
 - [sys.education](https://sys.education)
-- [bus.events](https://bus.events)  ← (webrtc | farcaster) ← protocol
+- [bus.events](https://bus.events)  ← webrtc, websockets ← Cmd<T> ← message passing computer
 - [fjson.org](https://fjson.org/)  ← functional JSON standard (futures)
 
 ---
