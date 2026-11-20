@@ -33,10 +33,6 @@ decentralisd, distributed `ƒ(n):💦`
 <img width="5171" height="3653" alt="smor-sys crdt-cell" src="https://github.com/user-attachments/assets/111226ce-fb8a-48a9-9988-a8bb1bcfc35e" />
 
 
-
-<img width="1703" alt="deno-vite-v8-isolate-w3c-typescript-esm-logos" src="https://github.com/user-attachments/assets/4ed36505-e8ce-499e-8290-f17ff1dcac6a" />
-
-
 ---
 
 <img width="1999" alt="smor-model-group-scale-n-dimension-cell" src="https://github.com/philcockfield/philcockfield/assets/185555/4049287b-67c4-4727-9f9c-49c4989ca2e0">
